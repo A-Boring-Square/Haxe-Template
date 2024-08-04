@@ -1,0 +1,53 @@
+###############
+# Uncomment Lines To Build
+###############
+
+# Build for C++
+-cp src
+-main Main
+-cpp bin/cpp
+
+# Build for Cppia
+# -cp src
+# -main Main
+# -cppia bin/cppia/main.cppia
+
+# Build for C#
+# -cp src
+# -main Main
+# -cs bin/cs
+
+# Build for Haxe Language
+# -cp src
+# -main Main
+# -hl bin/hl/main.hl
+
+# Build for Java
+# -cp src
+# -main Main
+# -java bin/java
+
+# Build for JavaScript
+# -cp src
+# -main Main
+# -js bin/js/main.js
+
+# Build for JVM
+# -cp src
+# -main Main
+# -jvm bin/jvm/main.jar
+
+# Build for Lua
+# -cp src
+# -main Main
+# -lua bin/lua/main.lua
+
+# Build for Neko
+# -cp src
+# -main Main
+# -neko bin/neko/main.n
+
+# Build for SWF
+# -cp src
+# -main Main
+# -swf bin/swf/main.swf
